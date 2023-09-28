@@ -21,7 +21,7 @@ document.addEventListener('click', function(e) {
 function scrollValue() {
     var navbar = document.getElementById('navbar');
     var scroll = window.scrollY;
-    if (scroll < 100) {
+    if (scroll < 900) {
         navbar.classList.remove('BgColour');
     } else {
         navbar.classList.add('BgColour');
