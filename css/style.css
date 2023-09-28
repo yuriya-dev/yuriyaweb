@@ -719,6 +719,7 @@ html {
 
     .boat {
         width: 450px;
+        left: 75%;
     }
 
     .mask-container .sun {
@@ -801,6 +802,7 @@ html {
 
     .boat {
         width: 375px;
+        left: 80%;
     }
     
     .mask-container .sun {
